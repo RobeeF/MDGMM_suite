@@ -6,10 +6,7 @@ Created on Tue Mar 24 17:37:43 2020
 """
 
 import os 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/GLLVM_layer')
-
-import warnings 
-#warnings.filterwarnings("ignore") # Attention..!!!!!!!!!!!!!!!!!!!!!!!!!
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/GLLVM_layer')
 
 import autograd.numpy as np
 import matplotlib.pyplot as plt

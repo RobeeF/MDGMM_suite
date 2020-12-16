@@ -6,7 +6,7 @@ Created on Fri Apr  3 11:33:34 2020
 """
 
 import os 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/DDGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/DDGMM')
 
 
 from ddgmm import DDGMM

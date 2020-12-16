@@ -6,8 +6,7 @@ Created on Tue Mar 24 17:37:43 2020
 """
 
 import os 
-
-os.chdir('C:/Users/rfuchs/Documents/GitHub/DDGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/DDGMM')
 
 from copy import deepcopy
 from gower import gower_matrix

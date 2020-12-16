@@ -7,7 +7,7 @@ Created on Fri Aug 28 10:30:14 2020
 
 import os 
 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/M2DGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/M2DGMM')
 
 from copy import deepcopy
 from utilities import check_inputs

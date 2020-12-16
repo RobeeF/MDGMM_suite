@@ -7,7 +7,7 @@ Created on Mon Jun  8 13:25:11 2020
 
 import os 
 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/M1DGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/M1DGMM')
 
 from copy import deepcopy
 

@@ -7,7 +7,7 @@ Created on Mon Jun  8 13:25:11 2020
 
 import os 
 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/M2DGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/M2DGMM')
 
 from copy import deepcopy
 from gower import gower_matrix

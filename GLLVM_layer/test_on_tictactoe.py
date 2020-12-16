@@ -5,18 +5,9 @@ Created on Fri Jun  5 17:47:04 2020
 @author: rfuchs
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  3 11:33:34 2020
-
-@author: rfuchs
-"""
-
 import os 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/GLLVM_layer')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/GLLVM_layer')
 
-import warnings 
-#warnings.filterwarnings("ignore") # Attention..!!!!!!!!!!!!!!!!!!!!!!!!!
 
 import autograd.numpy as np
 import matplotlib.pyplot as plt

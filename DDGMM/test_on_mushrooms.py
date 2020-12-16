@@ -6,10 +6,8 @@ Created on Fri Apr  3 11:33:34 2020
 """
 
 import os 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/DDGMM')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/DDGMM')
 
-#import warnings 
-#warnings.simplefilter("default")
 from gower import gower_matrix
 
 from init_params import dim_reduce_init

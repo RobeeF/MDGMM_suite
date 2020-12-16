@@ -6,7 +6,7 @@ Created on Fri Apr  3 11:33:34 2020
 """
 
 import os 
-os.chdir('C:/Users/rfuchs/Documents/GitHub/GLLVM_layer')
+os.chdir('C:/Users/rfuchs/Documents/GitHub/MDGMM_suite/GLLVM_layer')
 
 import pandas as pd
 import autograd.numpy as np
