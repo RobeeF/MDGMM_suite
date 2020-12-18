@@ -14,6 +14,11 @@
  The code to reproduce the results of the paper is available in each model repository in the files "test_on_\<name-of-the-dataset\>.py".
  A jupyter notebook for the M1DGMM case is given at the root of this repository to illustrate how to run the "test_on_\<name-of-the-dataset\>.py" of all models.
 
+
+<p align="center">
+  <img src="M1DGMM_heart.gif" width="350" title="Latent representation, likelihood and silhouette scores tracking through the iterations of the M1DGMM training on the Heart Dataset">
+</p>
+
  The future updates of this repository will be:
 
 * Implement the autoclus and multiclus modes into M1DGMM (only available for M2DGMM for the moment).
