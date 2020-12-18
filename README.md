@@ -16,7 +16,8 @@
 
 
 <p align="center">
-  <img src="M1DGMM_heart.gif" width="350" title="Latent representation, likelihood and silhouette scores tracking through the iterations of the M1DGMM training on the Heart Dataset">
+  <img src="M1DGMM_heart.gif" title="M1DGMM training on the Heart Dataset">
+ Latent representation, likelihood and silhouette scores tracking through the iterations of the M1DGMM training on the Heart Dataset.
 </p>
 
  The future updates of this repository will be:
