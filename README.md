@@ -1,5 +1,5 @@
 # MDGMM_suite
- Models introduced in the MDGMM paper Fuchs et. al  (2020)
+ Models introduced in the MDGMM paper Fuchs et. al  (2021)
  ![M1DGMM and M2DGMM](M12DGMM.png)	
  
  This repository contains the code of the five main models presented in the paper.
