@@ -7,6 +7,7 @@
  ## MDGMM Graphical models:
  ![M1DGMM and M2DGMM](imgs/M12DGMM.png)	
  
+ ## Repository content
  This repository contains the code of the five main models presented in the paper.
  More precisely:
  
@@ -19,6 +20,7 @@
  The code to reproduce the results of the paper is available in each model repository in the files "test_on_\<name-of-the-dataset\>.py".
  A jupyter notebook for the M1DGMM case (M1DGMM.ipynb) is given at the root of this repository to illustrate how to run the "test_on_\<name-of-the-dataset\>.py" of all models.
 
+ ## Future updates
  The future updates of this repository will be:
 
 * Implement the autoclus and multiclus modes into M1DGMM (only available for M2DGMM for the moment).
