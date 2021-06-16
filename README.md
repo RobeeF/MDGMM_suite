@@ -1,10 +1,10 @@
 # MDGMM_suite
  Models introduced in the MDGMM paper Fuchs et. al  (2021)
  
- How to choose the best suited model:
+ ## How to choose the best suited model:
   ![Model_choice](imgs/venn_suite.jpg)	
 
- MDGMM Graphical models:
+ ## MDGMM Graphical models:
  ![M1DGMM and M2DGMM](imgs/M12DGMM.png)	
  
  This repository contains the code of the five main models presented in the paper.
