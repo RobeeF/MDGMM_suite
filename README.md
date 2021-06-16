@@ -26,6 +26,6 @@
 * Add tutorials.
 * Provide an object-oriented version compliant with Scikit-learn standards of the code.
 * Add just-in-time compilation (jit) using the JAX package (when available for windows machines).
-
+* Add the Python version of the DGMM
 
  Feel free to fork and contribute to this repository !
